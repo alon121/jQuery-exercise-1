@@ -2,7 +2,7 @@
     direction: rtl;
     width: 700px;
     background-color: #ddd;
-    margin:0 auto;
+    margin:30 auto;
     
 }
 .clear {
@@ -10,7 +10,7 @@
 }
 
 h2 {
-    border-top: 1px solid red;
+    border-top: 4px solid red;
     clear: both;
     margin-top: 355px;
 }
